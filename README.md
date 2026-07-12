@@ -5,7 +5,7 @@
 **Project Link:** [View Project](http://nextwork.ai/projects/ai-crewai-blog-writing-crew)
 
 **Author:** jaswant singh  
-**Email:** jaswants022@gmail.com
+**GitHub:** [@JaswantOnGit](https://github.com/JaswantOnGit)
 
 ---
 
